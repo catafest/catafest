@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+All of these shared here come with an MIT License.
 <!--
 **catafest/catafest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
