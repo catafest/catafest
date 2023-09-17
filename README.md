@@ -1,7 +1,7 @@
 
 ## Hi there 👋 
-### This is my views from this account ... ![Counter](https://komarev.com/ghpvc/?username=catafest&style=flat-square&label=Profile%20Views) 
-### This is my views from work account ... ![Counter](https://komarev.com/ghpvc/?username=catafes-workt&style=flat-square&label=Profile%20Views) 
+### This is my view from this account ... ![Counter](https://komarev.com/ghpvc/?username=catafest&style=flat-square&label=Profile%20Views) 
+### This is my view from my work account ... ![Counter](https://komarev.com/ghpvc/?username=catafes-workt&style=flat-square&label=Profile%20Views) 
 
 ### This is my [catafest](https://github.com/catafest) GitHub profile for sharing my free time in the area of development.
 ### I have this work account : [catafest-work](https://github.com/catafest-work) for testing.
@@ -16,7 +16,7 @@ You can help my work by donate on : [![Donate](https://img.shields.io/badge/Dona
 
 <a href='https://ko-fi.com/B0B4OOL6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-21082022 today I start wakatime 
+21082022 Today I start wakatime 
 
 
 <img src="https://wakatime.com/share/@catafest/d415b1bb-4cf6-461d-a2c9-c9c18e8aff10.svg" height=176px></img>
