@@ -1,7 +1,7 @@
 
 ## Hi there 👋 
 ### This is my view from this account ... ![Counter](https://komarev.com/ghpvc/?username=catafest&style=flat-square&label=Profile%20Views) 
-### This is my view from my work account ... ![Counter](https://komarev.com/ghpvc/?username=catafest-workt&style=flat-square&label=Profile%20Views) 
+### This is my view from my work account ... ![Counter](https://komarev.com/ghpvc/?username=catafest-work&style=flat-square&label=Profile%20Views) 
 
 ### This is my [catafest](https://github.com/catafest) GitHub profile for sharing my free time in the area of development.
 ### I have this work account : [catafest-work](https://github.com/catafest-work) for testing.
