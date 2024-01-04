@@ -1,10 +1,19 @@
 
 ## Hi there 👋 
 ### This is my view from this account ... ![Counter](https://komarev.com/ghpvc/?username=catafest&style=flat-square&label=Profile%20Views) 
-### This is my view from my work account ... ![Counter](https://komarev.com/ghpvc/?username=catafes-workt&style=flat-square&label=Profile%20Views) 
+### This is my view from my work account ... ![Counter](https://komarev.com/ghpvc/?username=catafest-workt&style=flat-square&label=Profile%20Views) 
 
 ### This is my [catafest](https://github.com/catafest) GitHub profile for sharing my free time in the area of development.
 ### I have this work account : [catafest-work](https://github.com/catafest-work) for testing.
+
+<details open>
+<summary>My favorite python code : </summary>
+
+```python 
+import os
+import sys
+```
+</details>
 
 [![Follow](https://img.shields.io/github/followers/catafest.svg?style=social&label=Follow)](https://github.com/catafest) [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)](http://catafest.mit-license.org) [![Twitter Follow](https://img.shields.io/twitter/follow/ved_catafest.svg?label=Follow&style=social)](https://twitter.com/catafest) 
 
