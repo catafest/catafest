@@ -17,7 +17,7 @@ import sys
 
 [![Follow](https://img.shields.io/github/followers/catafest.svg?style=social&label=Follow)](https://github.com/catafest) [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)](http://catafest.mit-license.org) [![Twitter Follow](https://img.shields.io/twitter/follow/ved_catafest.svg?label=Follow&style=social)](https://twitter.com/catafest) 
 
-You can help my work by donate on : [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/catafest/1eur) 
+You can help my work by donate on : [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/catafest/1eur) and [![Sponsor](https://img.shields.io/badge/Sponsor-catafest-blue)](https://github.com/sponsors/catafest) 
 
 ### You can find me on the web with these nicknames: catafest and mythcat.
 ### If you like my work and you want to help, then feel free to donate at:
