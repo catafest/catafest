@@ -3,7 +3,7 @@
 ### This is my view from this account ... ![Counter](https://komarev.com/ghpvc/?username=catafest&style=flat-square&label=Profile%20Views) 
 ### This is my view from my work account ... ![Counter](https://komarev.com/ghpvc/?username=catafest-work&style=flat-square&label=Profile%20Views) 
 ###
-[![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0002-1561-7516)
+[![ORCID](https://orcid.org/sites/default/files/images/orcid_32x32.png)](https://orcid.org/0009-0002-1561-7516)
 ### This is my [catafest](https://github.com/catafest) GitHub profile for sharing my free time in the area of development.
 ### I have this work account : [catafest-work](https://github.com/catafest-work) for testing.
 
