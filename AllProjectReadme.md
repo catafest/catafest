@@ -397,7 +397,7 @@
 ### Critical Issues (Fix Immediately)
 
 1. **my_flask**: `.env` file with credentials committed to repo. Remove immediately and rotate any exposed secrets.
-2. **django_test_001**: Hardcoded admin credentials in README. Remove or rotate exposed credentials immediately.
+2. **django_test_001**: Hardcoded admin credentials visible in README. Remove and rotate immediately.
 3. **django_chart**: `db.sqlite3` committed. May contain sensitive data.
 4. **Godot4MainMenu001**: Compiled binaries (`.exe`, `.pck`) should not be in source control.
 
