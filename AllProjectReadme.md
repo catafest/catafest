@@ -162,7 +162,7 @@
 - **Improvements**: Migrate to modern Jupyter Book (v0.15+) which uses `_toc.yml` and `_config.yml` with Sphinx backend. Remove Ruby/Gemfile dependencies.
 
 ### 9. catafest-md5-encrypt
-- **Description**: MD5 encryption tool in Python
+- **Description**: MD5 hashing tool in Python
 - **Tech**: Python (single `main.py`)
 - **Last Commit**: 2024-06-12
 - **Improvements**: MD5 is cryptographically broken and should NOT be used for security. Add warnings in README. Consider adding SHA-256/SHA-3 alternatives. Add `argparse` for CLI usage.
@@ -230,7 +230,7 @@
 - **Tech**: Python, Django, django_otp
 - **Last Commit**: 2024-06-12
 - **Freshness**: Contains `myvenv` folder (virtual env committed). No `requirements.txt`.
-- **Improvements**: Remove `myvenv` from repo. Add proper `requirements.txt`. Add `.gitignore`. Update Django to 5.x. Remove hardcoded credentials from README.
+- **Improvements**: Remove `myvenv` from repo. Add proper `requirements.txt`. Add `.gitignore`. Update Django to 5.x. Remove hardcoded credentials from README and rotate any exposed secrets.
 
 ### 20. django_test_002
 - **Description**: Simple calendar with Django
@@ -397,7 +397,7 @@
 ### Critical Issues (Fix Immediately)
 
 1. **my_flask**: `.env` file with credentials committed to repo. Remove immediately and rotate any exposed secrets.
-2. **django_test_001**: Hardcoded admin credentials in README (`username catafest password admin76`).
+2. **django_test_001**: Hardcoded admin credentials in README. Remove or rotate exposed credentials immediately.
 3. **django_chart**: `db.sqlite3` committed. May contain sensitive data.
 4. **Godot4MainMenu001**: Compiled binaries (`.exe`, `.pck`) should not be in source control.
 
